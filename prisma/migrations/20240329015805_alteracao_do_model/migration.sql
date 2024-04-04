@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "myFavoriteCars" ALTER COLUMN "idUser" SET DATA TYPE TEXT,
+ALTER COLUMN "idCars" SET DATA TYPE TEXT;
